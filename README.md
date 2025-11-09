@@ -50,8 +50,8 @@ The goal is to **build and compare two NLP models** (from scratch) to predict wh
 
 - **Source:** [Kaggle Legal Clause Dataset](https://www.kaggle.com/datasets/bahushruth/legalclausedataset)  
 - **Fix:** CSVs have **no `label`** → **filename used as label**  
-- **Total Clauses:** 1,247  
-- **Labels:** 28  
+- **Total Clauses:** 158,808  
+- **Labels:** 395
 - **Pairs:** 6,000 (3,000 similar, 3,000 different)  
 - **Splits:** 70% Train / 15% Val / 15% Test
 
