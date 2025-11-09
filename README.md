@@ -18,8 +18,6 @@ The goal is to **build and compare two NLP models** (from scratch) to predict wh
 | Show **training graphs** | Done |
 | Qualitative analysis (correct/incorrect examples) | Done |
 | Modular, clean, documented code | Done |
-| PDF Report (`<FASTID>_<NAME>_A2-CS452.pdf`) | Done |
-| GitHub submission (no Colab link) | Done |
 
 ---
 
